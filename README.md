@@ -29,13 +29,36 @@ public class PratikMane {
         System.out.println("Developing intelligent chatbot solutions for banking sector");
         System.out.println("Optimizing backend performance and improving user experience");
     }
+    
+    public Map<String, String> getAchievements() {
+        return Map.of(
+            "Performance", "Reduced query response time by 30%",
+            "Efficiency", "Optimized transaction workflows by 40%",
+            "Impact", "Improved user resolution rates by 25%"
+        );
+    }
 }
 ```
 
-🔭 Currently working on **intelligent chatbot solutions** integrated into banking mobile apps  
-💡 4 years of experience in **backend development** with Java and Spring Boot  
-🌱 Learning and exploring **Cloud Native** technologies and **AI/ML** integration  
-⚡ Passionate about writing **clean, maintainable code** and mentoring developers
+### What I Do
+
+🔭 **Currently working on** intelligent chatbot solutions integrated into banking mobile apps, serving thousands of users with smart query resolution and task automation
+
+💼 **4 years of experience** crafting robust backend systems with Java and Spring Boot, specializing in microservices architecture and RESTful API design
+
+🌱 **Learning & Exploring** Cloud Native technologies, AI/ML integration, and advanced distributed systems patterns
+
+⚡ **Passionate about** writing clean, maintainable code, optimizing system performance, and mentoring junior developers to achieve their full potential
+
+### My Approach
+
+✨ I believe in building software that not only works but excels in:
+- **Scalability** - Designing systems that grow with business needs
+- **Reliability** - Writing code that stands the test of time
+- **Security** - Implementing industry-standard security practices
+- **Performance** - Optimizing every query, every API call, every transaction
+
+🎯 My goal is to create backend solutions that are elegant, efficient, and enterprise-ready.
 
 ---
 
